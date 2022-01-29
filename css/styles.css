@@ -1,0 +1,159 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 2.5em;
+}
+
+h1 {
+  /* font-size: 5.625rem; */
+  margin_top: 0;
+  font-family: 'Sacramento', cursive;
+  color:  #11999E;
+  font-weight: normal;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color:  #11999E;
+  font-weight: normal;
+  color:  #11999E;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color:  #11999E;
+  font-weight: normal;
+  color:  #11999E;
+  font-weight: normal;
+
+}
+
+div {
+
+}
+.mountain {
+  height: 500px
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+
+}
+
+.middle-container {
+  text-align: center;
+}
+
+.skill-row {
+  width: 50%
+  margin-top: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.computer {
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.chillies {
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+
+}
+
+/* .code-skills {
+  clear: left;
+}
+
+.chillies-skills {
+  clear: right;
+} */
+
+
+
+.myButton {
+	background-color:#7892c2;
+	border-radius:17px;
+	border:8px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background-color:#476e9e;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
